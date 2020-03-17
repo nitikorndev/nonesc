@@ -1,6 +1,6 @@
-# Appsynth Android Assignment 
+# Appsynth iOS Assignment 
 
-## (${Deadline})
+## Deadline 25 March 2020 (ASAP)
 ## Confidental
 Please don't disclose this assignment with anyone. 
 
@@ -34,7 +34,8 @@ GET https://testapi.io/api/razir/users/{userId}/notifications
 
 ## Code requirements
  * The app must be written in Kotlin only
- * We prefer MVVM architecture, but you can use MVP or MVI
+ * We prefer MVVM architecture, but you can use MVC, VIPER, VIP etc.
+ * We prefer to use a functional reactive programming (RxSwift)
  * We prefer to use a dependency injection framework
  * We prefer scalable, maintainable and testable code
  * Having Unit tests would be a plus but not required
