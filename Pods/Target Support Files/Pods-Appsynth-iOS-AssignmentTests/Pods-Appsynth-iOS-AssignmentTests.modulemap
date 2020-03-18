@@ -1,0 +1,6 @@
+framework module Pods_Appsynth_iOS_AssignmentTests {
+  umbrella header "Pods-Appsynth-iOS-AssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
